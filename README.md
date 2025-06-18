@@ -1,5 +1,5 @@
 # Currency-Converter-project
-# Currency Converter
+
 
 A simple Java-based Currency Converter that allows users to convert an amount from US Dollars (USD) to various other currencies, including Euros (EUR), British Pounds (GBP), Japanese Yen (JPY), Australian Dollars (AUD), Canadian Dollars (CAD), Chinese Yuan (CNY), and Indian Rupees (INR).
 
